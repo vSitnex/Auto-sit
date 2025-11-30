@@ -1,0 +1,2 @@
+# Auto-sit
+automatic sit
